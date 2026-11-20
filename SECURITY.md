@@ -13,6 +13,8 @@ Email **security@neurologyca.com** with:
 - the steps to reproduce it, or a proof of concept;
 - any logs, requests or screenshots that help us confirm it. Remove personal data, face or voice data, credentials and tokens first; describe them instead.
 
+You can also report it privately on GitHub, with the **Report a vulnerability** button in the **Security** tab of the affected repository.
+
 We will acknowledge your report within **5 business days**, keep you informed while we investigate, and tell you when it is fixed.
 
 Please keep the details confidential until we release a fix. We aim to fix confirmed issues within 90 days. If we need longer, we will explain why and agree on a disclosure date with you.
