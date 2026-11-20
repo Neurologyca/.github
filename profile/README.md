@@ -8,11 +8,11 @@
 
 ### SDKs
 
-| Package | What it does |
-| --- | --- |
-| [`@neurologyca/capture`](https://www.npmjs.com/package/@neurologyca/capture) [![npm](https://img.shields.io/npm/v/@neurologyca/capture?label=)](https://www.npmjs.com/package/@neurologyca/capture) | Browser SDK: webcam and microphone capture for Neurologyca Engine, live on-device or record-and-upload. |
-| [`@neurologyca/capture-server`](https://www.npmjs.com/package/@neurologyca/capture-server) [![npm](https://img.shields.io/npm/v/@neurologyca/capture-server?label=)](https://www.npmjs.com/package/@neurologyca/capture-server) | Server half of the SDK: short-lived tokens, Engine proxy, upload receiver and webhooks. Your API key never reaches the browser. |
-| [`@neurologyca/kodec`](https://www.npmjs.com/package/@neurologyca/kodec) [![npm](https://img.shields.io/npm/v/@neurologyca/kodec?label=)](https://www.npmjs.com/package/@neurologyca/kodec) | Browser-native affective signal codec: face landmarks, blendshapes, head pose and speech, computed on-device. |
+| Package | Version | What it does |
+| --- | --- | --- |
+| [`@neurologyca/capture`](https://www.npmjs.com/package/@neurologyca/capture) | [![npm](https://img.shields.io/npm/v/@neurologyca/capture?label=npm&color=0969da)](https://www.npmjs.com/package/@neurologyca/capture) | Browser SDK: webcam and microphone capture for Neurologyca Engine, live on-device or record-and-upload. |
+| [<code>@neurologyca/capture&#8209;server</code>](https://www.npmjs.com/package/@neurologyca/capture-server) | [![npm](https://img.shields.io/npm/v/@neurologyca/capture-server?label=npm&color=0969da)](https://www.npmjs.com/package/@neurologyca/capture-server) | Server half of the SDK: short-lived tokens, Engine proxy, upload receiver and webhooks. Your API key never reaches the browser. |
+| [`@neurologyca/kodec`](https://www.npmjs.com/package/@neurologyca/kodec) | [![npm](https://img.shields.io/npm/v/@neurologyca/kodec?label=npm&color=0969da)](https://www.npmjs.com/package/@neurologyca/kodec) | Browser-native affective signal codec: face landmarks, blendshapes, head pose and speech, computed on-device. |
 
 Source mirrors: [`capture-js`](https://github.com/Neurologyca/capture-js) · [`kodec-js`](https://github.com/Neurologyca/kodec-js)
 
